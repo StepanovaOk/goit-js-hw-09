@@ -16,7 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "simplelightbox": "^2.14.2",
-    "SimpleLightbox": "v2.13.0",
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-html-inject": "^1.0.1"
   }
