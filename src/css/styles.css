@@ -145,3 +145,37 @@ ul {
 .btn-submit:focus {
   background-color: #6c8cff;
 }
+
+.navigation {
+  display: flex;
+  align-self: center;
+  height: 20px;
+  width: 60px;
+  padding: 8px;
+  color: #fff;
+  font-family: Montserrat;
+  font-weight: 500;
+  border-radius: 8px;
+  background: #4e75ff;
+  border: none;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  transition: background-color 250ms linear;
+}
+
+.navigation:hover,
+.navigation:focus {
+  background-color: #6c8cff;
+}
+
+.main-nav {
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-container {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-direction: column;
+}
